@@ -8,6 +8,7 @@ A quick solution that sometimes works is to use the Clocks app on your watch to 
 If that doesn't work, you'll need to get rid of the errant clockface so a fresh try can be made. Here's how:
 * Force-close the Fitbit app, then restart it. Alternatively, shut down and restart your phone and watch, then restart them.
 * If the Clocks section of the Fitbit app offers to attempt to continue the installation, select 'later'.
+* If selecting 'later' doesn't stop the installation, you'll need to try shutting things down again. You can't proceed until the installation progress bar has stopped.
 * Instead of attempting to reinstall the clockface you're having trouble with, install a simpler clockface (such as one of those developed by Fitbit).
 * Use the Fitbit app to remove the clockface that you couldn't install.
 * Try to install that clockface again.
